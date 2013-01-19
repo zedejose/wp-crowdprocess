@@ -1,0 +1,60 @@
+# Copyright (C) 2013 WP CrowdProcess
+# This file is distributed under the same license as the WP CrowdProcess package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP CrowdProcess 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-crowdprocess\n"
+"POT-Creation-Date: 2013-01-18 15:27:22+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: wp-crowdprocess.php:76
+msgid "Instructions"
+msgstr ""
+
+#: wp-crowdprocess.php:82
+msgid "API Key:"
+msgstr ""
+
+#: wp-crowdprocess.php:98 wp-crowdprocess.php:151
+msgid "WP CrowdProcess Settings"
+msgstr ""
+
+#. #-#-#-#-#  wp-crowdprocess.pot (WP CrowdProcess 1.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: wp-crowdprocess.php:98
+msgid "WP CrowdProcess"
+msgstr ""
+
+#: wp-crowdprocess.php:107
+msgid ""
+"<p>In order for this plugin to function, you need to have a valid "
+"CrowdProcess API key. Please log in to your CrowdProcess account and either "
+"create a new API key or retrieve an existing one, from your <a href=\"%1$s\" "
+"target=\"_blank\">administration area</a>. The value you need to enter below "
+"is just the key itself, usually in a form similar to <strong>YTD8qqYY</"
+"strong>.</p>"
+msgstr ""
+
+#: wp-crowdprocess.php:109
+msgid ""
+"<p>Please make sure that you are <strong>not pasting the whole line of code</"
+"strong> on the field below.</p>"
+msgstr ""
+
+#: wp-crowdprocess.php:156
+msgid "Save Changes"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"CrowdProcess is a distributed supercomputer. Its computing power comes from "
+"visitors' browsers. This plugin installs a CrowdProcess \"worker\" on your "
+"WordPress site. If you still do not understand how CrowdProcess works, you "
+"can check <a href=\"http://crowdprocess.com/#home-how\">the overview</a>."
+msgstr ""
+
