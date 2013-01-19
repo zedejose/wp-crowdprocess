@@ -1,4 +1,5 @@
 === Plugin Name ===
+
 Contributors: vanillalounge
 Tags: CrowdProcess, distributed computing, worker
 Requires at least: 3.5
